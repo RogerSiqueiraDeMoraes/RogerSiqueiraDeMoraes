@@ -8,4 +8,4 @@
 - 🖥️ OS: Windows, Linux
 - 🎯 Interested in Software Development and IT
 - 🚀 Open to internship and junior opportunities
-- 📫 Pronouns: he/him
+
