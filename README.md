@@ -1,4 +1,4 @@
-<strong> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hand" width="14px">Hello! I'm Roger</strong>  
+<strong> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hand" width="14px">Hello! I'm Roger></strong>  
 - 🎓 Degree in **Systems Analysis and Development**
 - 🎓 Currently studying **Computer Science**
 - 💻 Languages: **C, HTML, CSS, JavaScript, SQL**
