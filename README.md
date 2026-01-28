@@ -9,25 +9,20 @@ Hello! I'm Roger <img src="https://raw.githubusercontent.com/iampavangandhi/iamp
 - 🎯 Interests: **Software Development and IT**
 - 🎯 Career goal: **Fullstack Developer**
 
-
-
-
-
-
- 
-
-
-
----
-
 ## 🔗 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roger-moraes/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roger.com.516@gmail.com)
 
 ---
+### 🧰 Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
 
-## 🧠 Areas of Interest
+## 🧠 Programming Languages
 
 #### 🎨 Front-end
 <p align="left">
