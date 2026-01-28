@@ -29,8 +29,6 @@ Hello! I'm Roger <img src="https://raw.githubusercontent.com/iampavangandhi/iamp
 
 ## 🧠 Areas of Interest
 
-### 🧠 Tech Stack
-
 #### 🎨 Front-end
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
