@@ -53,9 +53,3 @@ Hello! I'm Roger <img src="https://raw.githubusercontent.com/iampavangandhi/iamp
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RogerSiqueiraDeMoraes&theme=dark&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerSiqueiraDeMoraes&layout=compact&theme=dark&hide_border=true"/>
 </p>
-
----
-
-💻 *Always learning and improving.*
-
-
