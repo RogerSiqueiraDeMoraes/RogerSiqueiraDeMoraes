@@ -1,6 +1,6 @@
 Hello! I'm Roger <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hand" width="14px">
 - 🎓 Degree in **Systems Analysis and Development**
-- 🎓 Currently studying **Computer Science**
+- 🎓 Currently pursuing a degree in **Computer Science**
 - 💻 Languages: **C, HTML, CSS, JavaScript, SQL**
 - 🧰 Tools: **Git, GitHub, VS Code**
 - 🖥️ Operating Systems: **Windows, Linux**
