@@ -4,7 +4,7 @@ Hello! I'm Roger <img src="https://raw.githubusercontent.com/iampavangandhi/iamp
 - 💻 Languages: **C, HTML, CSS, JavaScript, SQL**
 - 🧰 Tools: **Git, GitHub, VS Code**
 - 🖥️ Operating Systems: **Windows, Linux**
-- 📖 Currently studying: **C and Data Structures**
+- 📖 Currently studying: **Data Structures and Flutter**
 - 🚀 Next studies: **Python | SQL | Flask**
 - 🎯 Interests: **Software Development and IT**
 - 🎯 Career goal: **Fullstack Developer**
