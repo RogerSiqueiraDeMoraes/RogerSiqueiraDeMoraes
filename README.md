@@ -37,12 +37,3 @@ Hello! I'm Roger <img src="https://raw.githubusercontent.com/iampavangandhi/iamp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <!--<img height="150em" src="https://github-readme-stats.vercel.app/api?username=RogerSiqueiraDeMoraes&theme=dark&hide_border=true"/>-->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerSiqueiraDeMoraes&layout=compact&theme=dark&hide_border=true"/>
-</p>
