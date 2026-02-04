@@ -1,8 +1,8 @@
 Hello! I'm Roger <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hand" width="14px">
 - 🎓 Degree in **Systems Analysis and Development**
 - 🎓 Currently pursuing a degree in **Computer Science**
-- 💻 Languages: **C, HTML, CSS, JavaScript, SQL**
-- 🧰 Tools: **Git, GitHub, VS Code**
+- 💻 Languages: **HTML, CSS, JavaScript, C, Java, Python**
+- 🧰 Tools: **Git, GitHub, VS Code, SQL**
 - 🖥️ Operating Systems: **Windows, Linux**
 - 📖 Currently studying: **Data Structures and Flutter**
 - 🚀 Next studies: **Python | SQL | Flask**
